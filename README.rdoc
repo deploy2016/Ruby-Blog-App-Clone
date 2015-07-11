@@ -1,5 +1,6 @@
 == README - updated
 
+THis is a test to see if the current file its modified for real 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
